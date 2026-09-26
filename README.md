@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/TharunTirumala/saferoute.git
+git clone https://github.com/arukalajyothi16/saferoute.git
 
 # Navigate to the project directory
 cd saferoute
@@ -57,6 +57,6 @@ The application will be available at `http://localhost:5173/`.
 
 ### 👤 Author
 
-**Tharun Tirumala**
-- GitHub: [@TharunTirumala](https://github.com/TharunTirumala)
-- Repository: [TharunTirumala/saferoute](https://github.com/TharunTirumala/saferoute)
+**Arukala Jyothi**
+- GitHub: [@arukalajyothi16](https://github.com/arukalajyothi16)
+- Repository: [arukalajyothi16/saferoute](https://github.com/arukalajyothi16/saferoute)
